@@ -13,7 +13,8 @@
     "lintfix": "prettier --write --list-different . && npm run lint:js -- --fix"
   },
   "engines": {
-    "node": "16.18.1"
+    "node": "16.18.1",
+    "npm": "9.1.2"
   },
   "dependencies": {
     "core-js": "^3.19.3",
