@@ -33,10 +33,6 @@ export default {
       ],
       script: [
         {
-          src: 'dflip/js/libs/jquery.min.js',
-          body: true,
-        },
-        {
           src: 'dflip/js/dflip.min.js',
           body: true,
         },
