@@ -8,17 +8,18 @@
         <div class="col-12">
           <div class="d-flex justify-content-center">
             <div class="text-center">
-              <h1 class="mx-auto my-0 text-uppercase">Resili prop</h1>
+              <h1 class="mx-auto my-0 text-uppercase text-center">
+                Resili prop
+              </h1>
             </div>
           </div>
         </div>
         <div class="col-12">
           <h3
-            class="text-white-50 mx-auto text-center mt-2 mb-5 line-height-1_3 text-uppercase"
+            class="text-white-50 mx-auto text-center mt-2 mb-5 line-height-1_3 text-lowercase"
           >
-            modern dwelling under international environment.
+            MODERN DWELLING UNDER INTERNATIONAL ENVIRONMENT
           </h3>
-          
         </div>
         <!-- <div class="col-12 col-sm-6">
           <h2 class="text-white-50 mx-auto mt-2 mb-5 line-height-1_3">

@@ -23,16 +23,25 @@
       <div id="navbarResponsive" class="collapse navbar-collapse">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#ebook">Ebook</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#projects">Projects</a>
+            <a class="nav-link" href="#whyus">Why Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#signup">Contact</a>
+            <a class="nav-link" href="#network">The Networking</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#partner">Partners</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#services">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#whyth">Why Thailand</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact</a>
           </li>
         </ul>
       </div>
