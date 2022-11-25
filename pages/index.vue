@@ -682,8 +682,8 @@
       <!-- Contact-->
       <section id="contact" class="contact-section bg-black">
         <div class="container">
-          <div class="row">
-            <div class="col-md-4 mb-3 mb-md-0">
+          <div class="row justify-content-center">
+            <!-- <div class="col-md-4 mb-3 mb-md-0">
               <div class="card py-4 h-100">
                 <div class="card-body text-center">
                   <i class="fas fa-map-marked-alt text-primary mb-2"></i>
@@ -694,7 +694,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="col-md-4 mb-3 mb-md-0">
               <div class="card py-4 h-100">
                 <div class="card-body text-center">
