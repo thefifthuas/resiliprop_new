@@ -2,6 +2,12 @@
   "FlipBook": {
     "description": "Auto imported from components/FlipBook.vue"
   },
+  "HeaderA": {
+    "description": "Auto imported from components/HeaderA.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },

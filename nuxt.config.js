@@ -20,8 +20,21 @@ export default {
         rel: 'stylesheet',
         href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',
       },
+      // {
+      //   rel: 'stylesheet',
+      //   href: 'https://fonts.googleapis.com/css?family=Varela+Round',
+      // },
+      // {
+      //   rel: 'stylesheet',
+      //   href: 'https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i',
+      // },
     ],
     script: [
+      {
+        src: 'https://use.fontawesome.com/releases/v6.1.0/js/all.js',
+        crossorigin: 'anonymous',
+        type: 'text/javascript',
+      },
       {
         src: 'https://code.jquery.com/jquery-3.3.1.slim.min.js',
         type: 'text/javascript',
@@ -34,6 +47,14 @@ export default {
         src: 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js',
         type: 'text/javascript',
       },
+      {
+        src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js',
+        type: 'text/javascript',
+      },
+      // {
+      //   src: 'https://cdn.startbootstrap.com/sb-forms-latest.js',
+      //   type: 'text/javascript',
+      // },
     ],
   },
 

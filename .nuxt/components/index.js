@@ -1,4 +1,6 @@
 export { default as FlipBook } from '../../components/FlipBook.vue'
+export { default as HeaderA } from '../../components/HeaderA.vue'
+export { default as NavBar } from '../../components/NavBar.vue'
 export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
 export { default as Tutorial } from '../../components/Tutorial.vue'
 
