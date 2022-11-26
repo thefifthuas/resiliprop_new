@@ -1,8 +1,8 @@
-export { default as FlipBook } from '../../components/FlipBook.vue'
-export { default as HeaderA } from '../../components/HeaderA.vue'
-export { default as NavBar } from '../../components/NavBar.vue'
-export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
-export { default as Tutorial } from '../../components/Tutorial.vue'
+export const FlipBook = () => import('../../components/FlipBook.vue' /* webpackChunkName: "components/flip-book" */).then(c => wrapFunctional(c.default || c))
+export const HeaderA = () => import('../../components/HeaderA.vue' /* webpackChunkName: "components/header-a" */).then(c => wrapFunctional(c.default || c))
+export const NavBar = () => import('../../components/NavBar.vue' /* webpackChunkName: "components/nav-bar" */).then(c => wrapFunctional(c.default || c))
+export const NuxtLogo = () => import('../../components/NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
+export const Tutorial = () => import('../../components/Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

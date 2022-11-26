@@ -185,7 +185,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/cgd_logo.png"
+                src="~/assets/links/cgd_logo.png"
                 width="150"
               />
             </div>
@@ -194,7 +194,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/76684_logo_201909200928.png"
+                src="~/assets/links/76684_logo_201909200928.png"
                 width="150"
               />
             </div>
@@ -203,7 +203,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/logo-sc-1200x628.webp"
+                src="~/assets/links/logo-sc-1200x628.webp"
                 width="150"
               />
             </div>
@@ -212,7 +212,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/client_ssr_l1.jpeg"
+                src="~/assets/links/client_ssr_l1.jpeg"
                 width="150"
               />
             </div>
@@ -221,7 +221,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/a5.jpg"
+                src="~/assets/links/a5.jpg"
                 width="150"
               />
             </div>
@@ -230,7 +230,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/jvrdqinyozakzhmc2hdl.webp"
+                src="~/assets/links/jvrdqinyozakzhmc2hdl.webp"
                 width="150"
               />
             </div>
@@ -239,7 +239,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/LOGO_ANANDA-01.png"
+                src="~/assets/links/LOGO_ANANDA-01.png"
                 width="150"
               />
             </div>
@@ -248,7 +248,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/botanica.jpg"
+                src="~/assets/links/botanica.jpg"
                 width="150"
               />
             </div>
@@ -257,7 +257,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/1529382710457.jpeg"
+                src="~/assets/links/1529382710457.jpeg"
                 width="150"
               />
             </div>
@@ -266,7 +266,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/lnh.jpg"
+                src="~/assets/links/lnh.jpg"
                 width="150"
               />
             </div>
@@ -275,7 +275,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/images.png"
+                src="~/assets/links/images.png"
                 width="150"
               />
             </div>
@@ -284,7 +284,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/swanlake.jpg"
+                src="~/assets/links/swanlake.jpg"
                 width="150"
               />
             </div>
@@ -293,7 +293,7 @@
             >
               <img
                 class="align-self-center py-2"
-                src="~/assets/Links/Asset 22.jpg"
+                src="~/assets/links/Asset 22.jpg"
                 width="150"
               />
             </div>
@@ -309,7 +309,7 @@
             <div class="col-xl-8 col-lg-7">
               <img
                 class="img-fluid mb-3 mb-lg-0"
-                src="~/assets/Links/pexels-pavel-danilyuk-7658410.jpg"
+                src="~/assets/links/pexels-pavel-danilyuk-7658410.jpg"
                 alt="..."
               />
             </div>
@@ -328,7 +328,7 @@
             <div class="col-lg-12">
               <img
                 class="img-fluid my-5"
-                src="~/assets/Links/pexels-pavel-danilyuk-7658410.jpg"
+                src="~/assets/links/pexels-pavel-danilyuk-7658410.jpg"
                 alt="..."
               />
             </div> -->
