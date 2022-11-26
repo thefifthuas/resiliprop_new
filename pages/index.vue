@@ -309,7 +309,7 @@
             <div class="col-xl-8 col-lg-7">
               <img
                 class="img-fluid mb-3 mb-lg-0"
-                src="~/assets/links/pexels-pavel-danilyuk-7658410.jpg"
+                src="~/assets/Links/pexels-pavel-danilyuk-7658410.jpg"
                 alt="..."
               />
             </div>
@@ -328,7 +328,7 @@
             <div class="col-lg-12">
               <img
                 class="img-fluid my-5"
-                src="~/assets/links/pexels-pavel-danilyuk-7658410.jpg"
+                src="~/assets/Links/pexels-pavel-danilyuk-7658410.jpg"
                 alt="..."
               />
             </div> -->
@@ -742,46 +742,46 @@
   </html>
 </template>
 <script>
-import NavBar from '../components/NavBar.vue'
-import HeaderA from '../components/HeaderA.vue'
+import NavBar from "../components/NavBar.vue";
+import HeaderA from "../components/HeaderA.vue";
 export default {
-  name: 'IndexPage',
+  name: "IndexPage",
   components: { NavBar, HeaderA },
   head() {
     return {
       link: [
         {
-          rel: 'stylesheet',
-          href: require('~/assets/dflip/css/dflip.min.css'),
+          rel: "stylesheet",
+          href: require("~/assets/dflip/css/dflip.min.css"),
         },
         {
-          rel: 'stylesheet',
-          href: require('~/assets/dflip/css/themify-icons.min.css'),
+          rel: "stylesheet",
+          href: require("~/assets/dflip/css/themify-icons.min.css"),
         },
         {
-          rel: 'stylesheet',
-          href: require('~/assets/fonts/font.css'),
+          rel: "stylesheet",
+          href: require("~/assets/fonts/font.css"),
         },
         {
-          rel: 'stylesheet',
-          href: require('~/assets/css/styles.css'),
+          rel: "stylesheet",
+          href: require("~/assets/css/styles.css"),
         },
         {
-          rel: 'stylesheet',
-          href: require('~/assets/css/style.css'),
+          rel: "stylesheet",
+          href: require("~/assets/css/style.css"),
         },
       ],
       script: [
         {
-          src: 'dflip/js/dflip.min.js',
+          src: "dflip/js/dflip.min.js",
           body: true,
         },
         {
-          src: 'js/scripts.js',
+          src: "js/scripts.js",
           body: true,
         },
       ],
-    }
+    };
   },
-}
+};
 </script>
